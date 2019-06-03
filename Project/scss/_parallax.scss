@@ -10,7 +10,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, 0.3);
+    background: rgba(0, 0, 0, 0.05);
     z-index: 1; }
   .site-block-testimonial .block-13 {
     position: relative;
@@ -33,3 +33,19 @@
   .site-block-testimonial p {
     font-size: 1.2rem;
     color: #fff; }
+  .greta{
+    margin-top: 6em;
+    max-width: 100%;
+  }
+  .new-text{
+    font-size: 1.2em;
+  }
+  .new-paragraph{
+    color: black;
+  }
+  .bold-text{
+    font-weight: bold;
+  }
+  .new-link{
+    color: #7bae05;
+  font-weight: 500;  }

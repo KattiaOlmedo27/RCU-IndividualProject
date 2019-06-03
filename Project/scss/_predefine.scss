@@ -64,14 +64,14 @@
 ============================================================================================ */
 
 .gradient-bg {
-	@include gradient(90deg, $primary-color 0%, $primary-color2 100%);
+	@include gradient(90deg, $primary-color2 0%, $primary-color4 80%);
 }
 .gradient-bg-reverse {
 	@include gradient(90deg, $primary-color 0%, $primary-color2 100%);
 }
 
 .gradient-bg2 {
-	@include gradient(90deg, $primary-color3 0%, $primary-color4 100%);
+	@include gradient(90deg, $primary-color4 0%,$primary-color2 90%);
 }
 
 .gradient-color {
@@ -138,7 +138,7 @@
 		}
 	}
 	&:hover {
-		@include gradient-text(blue, green);
+		@include gradient-text( #7bae05, #30C1CF);
 	}
 }
 /* End Buttons Area css
