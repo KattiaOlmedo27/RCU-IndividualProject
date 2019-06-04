@@ -1385,7 +1385,7 @@ button:focus {
 /* Start CTA Area css
 ============================================================================================ */
 .cta-area2 {
-  background: url(../img/cta-bg2.png) center no-repeat;
+  background: url(../img/cta-bg22.png) center no-repeat;
   background-size: cover;
   color: #ffffff;
   position: relative;
@@ -1532,7 +1532,7 @@ button:focus {
 }
 
 .testimonials-area .owl-thumb-item.active .overlay-grad {
-  border: 2px solid #C93F7C;
+  border: 2px solid #fff098;
 }
 
 .testimonials-area .owl-thumb-item .overlay-grad {
@@ -1546,7 +1546,7 @@ button:focus {
 }
 
 .testimonials-area .owl-thumb-item .overlay-grad:hover {
-  border: 2px solid #C93F7C;
+  border: 2px solid #fff098;
 }
 
 .testi-slider {
@@ -1589,7 +1589,6 @@ button:focus {
 .testi-item p {
   max-width: 605px;
   margin: auto;
-  font-style: italic;
   font-size: 17px;
   color: #888888;
 }
@@ -4566,7 +4565,7 @@ h6 {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.05);
+  background: rgba(0, 0, 0, 0);
   z-index: 1;
 }
 
@@ -4613,7 +4612,7 @@ h6 {
 }
 
 .new-paragraph {
-  color: black;
+  color: #504f4f;
 }
 
 .bold-text {

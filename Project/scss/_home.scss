@@ -386,7 +386,7 @@
 /* Start CTA Area css
 ============================================================================================ */
 .cta-area2 {
-	background: url(../img/cta-bg2.png) center no-repeat;
+	background: url(../img/cta-bg22.png) center no-repeat;
 	background-size: cover;
 	color: #ffffff;
 	position: relative;
@@ -484,7 +484,7 @@
 		}
 		&.active {
 			.overlay-grad {
-				border: 2px solid $primary-color;
+				border: 2px solid $primary-color3;
 			}
 		}
 		.overlay-grad {
@@ -493,7 +493,7 @@
 			@include transition();
 			cursor: pointer;
 			&:hover {
-				border: 2px solid $primary-color;
+				border: 2px solid $primary-color3;
 			}
 		}
 	}
@@ -531,7 +531,7 @@
 	p {
 		max-width: 605px;
 		margin: auto;
-		font-style: italic;
+		
 		font-size: 17px;
 		color: #888888;
 		br {
